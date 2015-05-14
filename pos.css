@@ -1,12 +1,52 @@
 div {
 	border: solid black 2px;
 	width: 100px;
+	height: auto;
 	text-align: center;
-	margin: 3px;
+	margin: 5px;
+	font-size: 18px;
+}
+
+p {
+	width: 150px;
+	padding-left: 40px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+
+.item {
+	padding: 7px;
+}
+
+.drink {
+	background-color: blue;
+}
+
+.app {
+	background-color: green;
+}
+
+.entree {
+	background-color: red;
+}
+
+.dessert {
+	background-color: yellow;
 }
 
 .column {
 	border: none;
 	float: left;
 	margin-right: 15px;
+}
+
+#price {
+	text-align: left;
+}
+
+#check {
+	width: 200px;
+	height: 200px;
+	overflow: scroll;
+	list-style-type: none;
 }
