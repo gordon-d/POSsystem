@@ -14,6 +14,7 @@ p {
 	margin-bottom: 4px;
 }
 
+
 .item {
 	padding: 7px;
 }
@@ -45,7 +46,7 @@ p {
 }
 
 #check {
-	width: 200px;
+	width: 250px;
 	height: 200px;
 	overflow: scroll;
 	list-style-type: none;

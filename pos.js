@@ -66,6 +66,18 @@ var allItems = [
 		display: "Ice Cream",
 		price: 8,
 		type: "dessert item",
+	},
+	{
+		id: "cheesecake",
+		display: "New York Cheesecake",
+		price: 11,
+		type: "dessert item",
+	},
+	{
+		id: "cheesesteak",
+		display: "Philly Cheesesteak",
+		price: 12,
+		type: "entree item",
 	}
 ]
 
