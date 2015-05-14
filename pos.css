@@ -1,0 +1,12 @@
+div {
+	border: solid black 2px;
+	width: 100px;
+	text-align: center;
+	margin: 3px;
+}
+
+.column {
+	border: none;
+	float: left;
+	margin-right: 15px;
+}
