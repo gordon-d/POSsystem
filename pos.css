@@ -1,10 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis:400,600,800);
+
 div {
 	border: solid black 2px;
 	width: 100px;
 	height: auto;
 	text-align: center;
-	margin: 5px;
+	margin: 10px;
 	font-size: 18px;
+	font-family: Dosis;
 }
 
 p {
@@ -14,9 +17,14 @@ p {
 	margin-bottom: 4px;
 }
 
+li {
+	border-bottom: dashed black 1px;
+	padding: 3px;
+}
 
 .item {
 	padding: 7px;
+	margin-right: 5px;
 }
 
 .drink {
@@ -46,8 +54,11 @@ p {
 }
 
 #check {
-	width: 250px;
+	width: 290px;
 	height: 200px;
-	overflow: scroll;
+	overflow: auto;
 	list-style-type: none;
+	padding-left: 5px;
+	margin-left: 10px;
+	border: solid black 2px;
 }

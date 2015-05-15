@@ -78,7 +78,44 @@ var allItems = [
 		display: "Philly Cheesesteak",
 		price: 12,
 		type: "entree item",
+	},
+	{
+		id: "whiskey",
+		display: "Top Shelf Whiskey",
+		price: 20,
+		type: "drink item"
+	},
+	{
+		id: "frenchFries",
+		display: "French Fries",
+		price: 8,
+		type: "app item"
+	},
+	{
+		id: "seltzer",
+		display: "Sparkling Water",
+		price: 6,
+		type: "drink item"
+	},
+	{
+		id: "chocolateChip",
+		display: "Chocolate Chip Cookie w/ Sea Salt",
+		price: 7,
+		type: "dessert item"
+	},
+	{
+		id: "mozzarellaSticks",
+		display: "Mozzarella Sticks",
+		price: 9,
+		type: "app item"
+	},
+	{
+		id: "fish",
+		display: "Fish",
+		price: 15,
+		type: "entree item"
 	}
+
 ]
 
 
